@@ -1,12 +1,11 @@
 function iterativeLog(array) {
-	array.forEach(element => console.log(${index}: ${element}))
+	array.forEach(element => console.log(`${index}: ${element}`))
 }
 
 function iterate(callback) {
-	arr.forEach(callback() => new Array = [...kittens])
-  return arr;
+	arr.forEach(element => { let balanced = new Array(...['value1'], ['value2']); })
 }
 
 function doToArray (array, callback) {
 	callback.forEach()
-}
+};
