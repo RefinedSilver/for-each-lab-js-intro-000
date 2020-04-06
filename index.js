@@ -4,6 +4,7 @@ function iterativeLog(array) {
 
 function iterate(callback) {
 	arr.forEach(callback() => new Array = [...kittens])
+  return arr;
 }
 
 function doToArray (array, callback) {
